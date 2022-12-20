@@ -1,0 +1,52 @@
+pratique de versionning sur git de base:
+
+installer git dans git-scm.com
+
+vous pouvez utilisez le terminal vscode
+
+git --version
+ls
+clear
+git init
+
+//configuration
+
+git config --global user.name "kara"
+git config --global user.mail "ksamb@groupeisi.com"
+
+//preparation 
+
+git add nomfichier.txt
+git status
+git commit -m "debut du projet"
+git add *
+git commit -m "debut du projet2 et concept"
+git log
+
+//extraction
+git checkout identifiant
+git checkout master
+git checkout master -f
+
+//branches
+
+git branch
+git branch ajoutbranche
+git branch
+git checkout ajoutbranche
+git add *
+
+//fusionner les branches
+
+git checkout master
+git branch
+git merge ajoutbranche
+git branch -d ajoutbranche //delete
+git add *
+git commit -m "ajout de quelques choses"
+git branch mofifbranche
+git add *
+git commit -m "frites => humburger"
+
+
+

@@ -1,0 +1,42 @@
+VERSIONNING
+
+GIT est un outil de versioning( ensemble de commande à utiliser pour)
+
+-creer des versions de code, depot de code en ligne, recuperer le code depuis votre depot en ligne
+
+GITHUB est un depot distant, stockage du code source (autres outils: gitlab,etc)
+
+DEVOPS (developpement et operationnelle) est un mouvement qui permet de gerer tout une chaine de production
+
+chaine de production:
+  -De coder depuis ma machine et qu'on ai une repercution depuis ma machine
+ 
+Concept de docker est un outil qui permet de faire du deploiement
+
+--------------
+creation de repository dans github (Prêt à commencer à construire ? Créez un référentiel 
+pour une nouvelle idée ou reprenez un référentiel existant pour continuer à y contribuer
+
+- creation d'un compte dans github en premier (https://github.com/)
+MON COMPTE-ksamb81 MP: Passer@1981
+
+//ksamb81/jobrek
+
+
+INSTALLATION DE GIT
+HTTPS://git-scm.com/download/win
+
+
+Git est un système de contrôle de version distribué gratuit et open source conçu
+
+ pour tout gérer, des petits aux très grands projets, avec rapidité et efficacité.
+
+Git est facile à apprendre et a une petite empreinte avec des performances ultra-rapides.
+Il surclasse les outils SCM tels que Subversion, CVS, Perforce et ClearCase 
+avec des fonctionnalités telles que la création de branches locales bon marché , 
+des zones de préparation pratiques et plusieurs flux de travail .
+
+apres avoir installé GIT
+
+Creer un dossier dans htdocs ou wwww/ puis click droit/ choisissew Git Bash Here
+
